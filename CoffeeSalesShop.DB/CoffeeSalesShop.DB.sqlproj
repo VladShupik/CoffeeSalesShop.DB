@@ -72,6 +72,7 @@
     <Build Include="Tables\ShoppingCart.sql" />
     <Build Include="Tables\ShoppingCartProduct.sql" />
     <Build Include="Tables\OrderDelivery.sql" />
+    <Build Include="Tables\Image.sql" />
   </ItemGroup>
   <ItemGroup>
     <PostDeploy Include="Scripts\CoffeeSalesShop.User.PostDeployment.sql" />
